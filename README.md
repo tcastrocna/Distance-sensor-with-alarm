@@ -1,9 +1,9 @@
-## Circuito Sensor Ultrassonic (Medir Distância) com display 16x2
+# Circuito Sensor de distância com alarme usando ESP32.
 
-### Esquema de ligação
+## Esquema de ligação
 ![Esquema de ligação](Esquema.png)
 
-### Código Fonte
+## Código Fonte
 ```cpp
 #include <Arduino.h>
 #include <LiquidCrystal.h> // Biblioteca para o display LCD
