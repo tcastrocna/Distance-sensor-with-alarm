@@ -1,10 +1,3 @@
-## Circuito Sensor Ultrassonic (Medir Distância) com display 16x2
-
-### Esquema de ligação
-![Esquema de ligação](Esquema.png)
-
-### Código Fonte
-```cpp
 #include <Arduino.h>
 #include <LiquidCrystal.h> // Biblioteca para o display LCD
 
@@ -69,5 +62,3 @@ void loop() {
   delay(500);
 }
 
-
-```
